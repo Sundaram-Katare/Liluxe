@@ -21,7 +21,7 @@ export default function Navbar() {
 
       {/* GitHub + Hamburger */}
       <div className="flex items-center gap-6">
-        <FaGithub size={30} className="cursor-pointer" />
+        <FaGithub size={30} className="cursor-pointer" onClick={() => window.open("https://github.com/Sundaram-Katare/stylespot", "_blank")} />
         <button
           className="md:hidden text-2xl"
           onClick={() => setMenuOpen(!menuOpen)}
