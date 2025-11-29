@@ -16,7 +16,9 @@ export default function Explore() {
                             <p>Our Colorful</p>
                             <p>collections</p>
                         </div>
-                        <img src="https://static.vecteezy.com/system/resources/thumbnails/011/458/568/small/giraffe-cartoon-animal-clipart-icon-png.png" alt="" />
+                        <img src="https://static.vecteezy.com/system/resources/thumbnails/011/458/568/small/giraffe-cartoon-animal-clipart-icon-png.png" alt="" 
+                             classname="h-36"    
+                        />
 
                     </div>
 
